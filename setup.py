@@ -2,7 +2,7 @@ from setuptools import setup
 
 # See PEP 0440: https://www.python.org/dev/peps/pep-0440/#version-scheme
 # Consider making this the same as the last tagged release version
-VERSION = '0.1.0'
+VERSION = '0.1.1'
 
 setup(
     name='zachopy',
